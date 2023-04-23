@@ -1,5 +1,4 @@
 # Reservia
-![Reservia](https://github.com/Maxwell-gith/Reservia/blob/main/images/logo/Reservia%403x.png)
 
 ## Reservia site de réservation de logements de vacances.
 
